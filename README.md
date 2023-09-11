@@ -6,6 +6,9 @@ At the end, you can follow the guidelines and make your own arduino robot and a 
 
 ![image](https://github.com/panagiotamoraiti/Arduino-projects/assets/72858165/433c6a24-cda8-47d1-8a39-f7dc0659b5ee)
 
+![image](https://github.com/panagiotamoraiti/Arduino-projects/assets/72858165/d70f24b7-8308-473a-b2a6-40c5d3566cd9)
+
+
 ![image](https://github.com/panagiotamoraiti/Arduino-projects/assets/72858165/dc3a9f09-592d-48c4-89ce-96c575d1ff1c)
 
 
